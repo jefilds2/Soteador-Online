@@ -1,0 +1,133 @@
+* {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+body {
+    background-color: rgba(0, 0, 0, 1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-img {
+    width: auto;
+    height: auto;
+}
+
+.capa {
+    display: flex;
+    width: 453px;
+    height: auto;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.sorteador {
+    width: auto;
+    height: auto;
+}
+
+.title {
+    color: rgba(255, 255, 255, 1);
+    font-size: 45px;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    width: 322px;
+    height: 57px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 14px;
+    background-color: rgba(255, 255, 255, 0.25);
+    margin-top: 30px;
+    margin-left: 56px;
+    color: rgba(255, 255, 255, 1);
+    font-weight: 500;
+    font-size: 30px;
+    
+
+
+}
+
+input::placeholder {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px
+}
+
+.btn {
+    width: 300px;
+    height: 67px;
+    background-color: rgba(174, 195, 70, 1);
+    border-radius: 10px;
+    box-shadow: 0px 18px 40px 0px rgba(174, 195, 70, 0.35);
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 2.5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 768px) {
+
+    .capa {
+        width: 250px;
+        height: auto;
+        margin-top: 36px;
+    }
+
+    .sorteador {
+        width: auto;
+        height: auto;
+    }
+
+    .title {
+        font-size: 29px;
+        margin-top: 0;
+    }
+
+    input {
+        width: 120px;
+        height: 64px;
+        margin-top: 16px;
+        margin-left: 10px;
+        font-size: 20px;      
+    }
+
+    input::placeholder {
+    font-size: 20px;
+}
+
+    .botao {
+        margin-top: 20px;
+    }
+
+    .btn {
+        width: 200px;
+        height: 70px;
+        font-size: 15px;
+        line-height: 1px;
+        margin-top: 15px;
+    }
+
+
+
+}
