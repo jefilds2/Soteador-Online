@@ -3,11 +3,6 @@
 
 Aplicação web simples e responsiva para sortear um número aleatório entre um valor mínimo e um valor máximo informados pelo usuário.
 
-## Preview
-
-<img width="1866" height="942" alt="Captura de tela 2026-03-31 125456" src="https://github.com/user-attachments/assets/5b356ddd-8e88-473c-ba3e-499200d1835f" />
-
-
 ## Sobre o projeto
 
 O **Sorteador Online** foi desenvolvido como um projeto front-end com foco na prática de **HTML5**, **CSS3** e **JavaScript**.  
@@ -98,5 +93,7 @@ Só um detalhe importante: o nome do repositório está como **Soteador-Online**
 Posso te entregar também uma **versão mais premium**, com badges, seção de deploy e visual mais forte para recrutador.
 ```
 
+## Preview
 
+<img width="1866" height="942" alt="Captura de tela 2026-03-31 125456" src="https://github.com/user-attachments/assets/5b356ddd-8e88-473c-ba3e-499200d1835f" />
 
