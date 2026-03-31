@@ -5,7 +5,8 @@ Aplicação web simples e responsiva para sortear um número aleatório entre um
 
 ## Preview
 
-<img width="1866" height="942" alt="Captura de tela 2026-03-31 125456" src="https://github.com/user-attachments/assets/b00c3bd1-8695-48e3-9950-47ec273b2cb9" />
+<img width="1866" height="942" alt="Captura de tela 2026-03-31 125456" src="https://github.com/user-attachments/assets/5b356ddd-8e88-473c-ba3e-499200d1835f" />
+
 
 ## Sobre o projeto
 
