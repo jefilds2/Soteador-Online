@@ -71,14 +71,6 @@ Este projeto foi importante para praticar:
 * Estruturação de layout responsivo
 * Organização básica de arquivos front-end
 
-## Melhorias futuras
-
-* Adicionar validação para impedir campos vazios
-* Exibir mensagem de erro quando o valor mínimo for maior que o máximo
-* Mostrar o resultado diretamente na tela em vez de usar `alert()`
-* Permitir múltiplos sorteios sem recarregar a página
-* Melhorar a acessibilidade e o feedback visual para o usuário
-
 ## Autor
 
 Desenvolvido por **Jefferson Miranda**.
