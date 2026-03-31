@@ -5,7 +5,7 @@ Aplicação web simples e responsiva para sortear um número aleatório entre um
 
 ## Sobre o projeto
 
-O **Sorteador Online** foi desenvolvido como um projeto front-end com foco na prática de **HTML5**, **CSS3** e **JavaScript**.  
+O *Sorteador Online* foi desenvolvido como um projeto front-end com foco na prática de **HTML5**, **CSS3** e **JavaScript**.  
 A proposta é oferecer uma interface visual simples, direta e fácil de usar, permitindo que o usuário informe um intervalo numérico e obtenha um resultado aleatório de forma instantânea.
 
 Além da funcionalidade principal, o projeto também conta com uma estrutura responsiva, proporcionando uma boa experiência em diferentes tamanhos de tela.
@@ -86,12 +86,6 @@ Desenvolvido por **Jefferson Miranda**.
 * GitHub: [jefilds2](https://github.com/jefilds2)
 * LinkedIn: [Jefferson Miranda](https://www.linkedin.com/in/jefferson-miranda-dfs)
 
-```
-
-Só um detalhe importante: o nome do repositório está como **Soteador-Online**. Se isso foi sem querer, vale muito a pena corrigir para **Sorteador-Online**, porque passa mais profissionalismo.
-
-Posso te entregar também uma **versão mais premium**, com badges, seção de deploy e visual mais forte para recrutador.
-```
 
 ## Preview
 
