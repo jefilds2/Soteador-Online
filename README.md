@@ -1,5 +1,3 @@
-Claro — aqui está o **README completo em Markdown**, pronto para **copiar e colar** no seu `README.md`:
-
 ````md
 # Sorteador Online
 
